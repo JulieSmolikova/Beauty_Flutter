@@ -1,5 +1,5 @@
 # Beauty
-A new Flutter project.
+=> My first Flutter project.
 
 https://user-images.githubusercontent.com/94138023/201348890-9499f296-959a-4e93-afde-9c1238655853.mp4
 
