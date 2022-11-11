@@ -1,9 +1,7 @@
 # Beauty
 A new Flutter project.
 
-
-https://user-images.githubusercontent.com/94138023/201347940-b18f2f8c-c8dd-43c5-afea-62d2ef9834a7.mp4
-
+https://user-images.githubusercontent.com/94138023/201348890-9499f296-959a-4e93-afde-9c1238655853.mp4
 
 ![studio64_i606qIuk4i](https://user-images.githubusercontent.com/94138023/201347636-ff8f6e3e-83ed-494d-83e6-03287414d8f8.png)
 ![studio64_96y6yATh5r](https://user-images.githubusercontent.com/94138023/201347646-d18029c0-471a-4bae-89b5-26e2e101ea81.png)
